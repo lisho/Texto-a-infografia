@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Slide Generator",
+  "description": "An application that takes text from a document and generates a visually appealing slide with key points, summaries, and icons, inspired by a creative process infographic.",
+  "requestFramePermissions": []
+}
